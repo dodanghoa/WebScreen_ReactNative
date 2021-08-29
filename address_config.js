@@ -1,0 +1,1 @@
+export var URL_adress = 'https://www.youtube.com/watch?v=DMEUeFPX0NE';
